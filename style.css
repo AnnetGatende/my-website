@@ -1,3 +1,14 @@
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css');
+.fa-envelope{
+    color: #d93025;
+
+}
+.fa-whatsapp{
+    color: #24d366;
+}
+.fa-phone{
+    color: #0d6efd;
+}
 body{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     background-color: #f8f9fa;
@@ -16,7 +27,7 @@ header h1{
     margin-bottom: 5px;
 }
 nav{
-    margin-top: 10px
+    margin-top: 10px;
 }
 nav a{
     color: white;
@@ -67,4 +78,5 @@ main,section{
     padding: 20px;
     margin: 15px;
 }
+
 }
